@@ -1,1 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Model files
+*.pt
+*.pth
+*.h5
+
+# Dataset folders 
+data/
+dataset/
+datasets/
+
+# Logs & outputs
+logs/
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
