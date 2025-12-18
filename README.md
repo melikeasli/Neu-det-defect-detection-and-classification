@@ -11,8 +11,6 @@ The NEU Surface Defect Dataset contains six types of surface defects:
 - Rolled-in Scale
 - Scratches
 
-Dataset link: https://github.com/abin24/Steel-Defect-Detection
-
 ## Methodology
 - Developed a **custom CNN architecture** without using pre-trained models.
 - Implemented both **image classification** and **object detection** pipelines.
@@ -30,5 +28,6 @@ Dataset link: https://github.com/abin24/Steel-Defect-Detection
 
 ## Technologies
 Python, PyTorch, OpenCV, NumPy, Matplotlib
+
 
 
