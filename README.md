@@ -19,7 +19,7 @@ The NEU Surface Defect Dataset contains six types of surface defects:
 ## Results
 - Classification Accuracy: **96%**
 
-### Accuracy Curve
+### Accuracy 
 ![Accuracy](results/Accuracy.png)
 ### Confusion Matrix
 ![Confusion Matrix](results/confusion.png)
@@ -28,6 +28,7 @@ The NEU Surface Defect Dataset contains six types of surface defects:
 
 ## Technologies
 Python, PyTorch, OpenCV, NumPy, Matplotlib
+
 
 
 
